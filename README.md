@@ -1,2 +1,2 @@
 # delta-demo2
-this is use of git 
+this is use of git. 
